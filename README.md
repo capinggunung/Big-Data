@@ -7,3 +7,4 @@ Berisi:
 <p>4. Data Crawling twitter</p>
 
 <p>terima kasih
+  catatan : untuk membuka file-file di github usahakan menggunakan internet kecepetan tinggi supaya bisa kebuka.
